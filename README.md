@@ -48,5 +48,3 @@ data/                      Archivos CSV generados (no se sube a Git)
 | [UML](docs/UML.md) | Diagrama de clases, de capas y de secuencia (requisito) |
 | [Manual técnico](docs/manual-tecnico.md) | Arquitectura, formato de archivos, reglas (requisito) |
 | [Manual de usuario](docs/manual-usuario.md) | Cómo usar el programa paso a paso (requisito) |
-| [Guía de estudio](docs/guia-de-estudio.md) | Entender el proyecto desde cero, con ejemplos de prueba |
-| [Guía de Git y GitHub](docs/guia-git-github.md) | Cómo versionar el proyecto |
