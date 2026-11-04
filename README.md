@@ -46,5 +46,5 @@ data/                      Archivos CSV generados (no se sube a Git)
 | Documento | Para qué sirve |
 |---|---|
 | [UML](https://github.com/LuisChajon3815LS/Proyecto-final-/blob/main/UML.md) | Diagrama de clases, de capas y de secuencia (requisito) |
-| [Manual técnico]([tecnico.md](https://github.com/LuisChajon3815LS/Proyecto-final-/blob/main/manual-tecnico.md)) | Arquitectura, formato de archivos, reglas (requisito) |
+| [Manual técnico](https://github.com/LuisChajon3815LS/Proyecto-final-/blob/main/manual-tecnico.md)) | Arquitectura, formato de archivos, reglas (requisito) |
 | [Manual de usuario](https://github.com/LuisChajon3815LS/Proyecto-final-/blob/main/UML.md) | Cómo usar el programa paso a paso (requisito) |
