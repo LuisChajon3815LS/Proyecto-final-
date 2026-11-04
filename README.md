@@ -45,6 +45,6 @@ data/                      Archivos CSV generados (no se sube a Git)
 
 | Documento | Para qué sirve |
 |---|---|
-| [UML](docs/UML.md) | Diagrama de clases, de capas y de secuencia (requisito) |
+| [UML](https://github.com/LuisChajon3815LS/Proyecto-final-/blob/main/manual-usuario.md) | Diagrama de clases, de capas y de secuencia (requisito) |
 | [Manual técnico](docs/manual-tecnico.md) | Arquitectura, formato de archivos, reglas (requisito) |
 | [Manual de usuario](docs/manual-usuario.md) | Cómo usar el programa paso a paso (requisito) |
